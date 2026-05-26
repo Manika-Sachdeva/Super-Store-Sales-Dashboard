@@ -36,8 +36,8 @@ The Super Store Sales Forecast Dashboard is designed to analyze retail sales per
 - Added slicers and filters for dynamic dashboard interaction.
 
 ## Dashboard 
-<img width="1001" height="562" alt="Screenshot" src="<img width="997" height="560" alt="Page-1" src="https://github.com/user-attachments/assets/a0455e44-e679-4598-93a8-c79f9aac8edb" />
-<img width="1001" height="562" alt="Screenshot" src="<img width="995" height="557" alt="Page-2" src="https://github.com/user-attachments/assets/9897791b-2130-4820-8407-a6b211993236" />
+<img width="997" height="560" alt="Page-1" src="https://github.com/user-attachments/assets/a0455e44-e679-4598-93a8-c79f9aac8edb" />
+<img width="995" height="557" alt="Page-2" src="https://github.com/user-attachments/assets/9897791b-2130-4820-8407-a6b211993236" />
 
 ## Project Insights
 - Consumer segment contributes the highest share of total sales.
