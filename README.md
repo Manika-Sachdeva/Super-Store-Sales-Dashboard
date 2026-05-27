@@ -1,6 +1,6 @@
 # Super Store Sales Forecast Dashboard (Power BI Project)
 ## Project Objective
-The Super Store Sales Forecast Dashboard is designed to analyze retail sales performance and forecast future sales trends using historical order data. The dashboard helps businesses monitor KPIs, understand customer and regional performance, and predict short-term sales for better planning and decision-making.
+The Super Store Sales Forecast Dashboard is designed to analyze retail sales performance and forecast future sales trends using historical order data. The dashboard helps businesses monitor KPIs, understand customer and regional performance, and predict short-term sales for better planning and decision-making. 
 
 ## Dataset Used
 - <a href="https://github.com/Manika-Sachdeva/Super-Store-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>
