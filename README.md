@@ -5,7 +5,7 @@ The Super Store Sales Forecast Dashboard is designed to analyze retail sales per
 ## Dataset Used
 - <a href="https://github.com/Manika-Sachdeva/Super-Store-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>
 
-## Questions (KPIs)
+## Questions (KPIs) 
 - What is the total sales revenue generated?
 - What is the total quantity sold?
 - What is the total profit earned?
